@@ -1,3 +1,3 @@
-# scipilogy-design
+# Sciπlogy Design Repo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-eeetxv)
+This repo is dedicated to all Design and Mechanics implementation
